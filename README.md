@@ -1,4 +1,4 @@
-# 🏖️ Beach Resort
+# Beach Resort 🏖️
 
 ## Hotel Database Management System
 
