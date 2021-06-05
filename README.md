@@ -2,7 +2,7 @@
 
 ## Hotel Database Management System
 
-Beach Resort is a full-stack application for a hotel database management system
+Beach Resort is a full-stack application for a hotel database management system using React.js for frontend, Spring Boot for backend and MariaDB for the database
 
 A web-based project designed to allow user access to a hotel. The users consist of guests, employees and candidates. Guests are able to book a room in whichever building and location they prefer, rate and make comments on their reservations, order food from various restaurants depending on the availability of food and buy tickets for a plethora of events being conducted at the hotel, such as activities, group tours, pool parties etc. Employees consist of managers, housekeepers, security staff and recruiters. The system allows them to access their role-specific features. Managers are able to assign tasks to other employees - food orders for delivery and cleaning duties to housekeepers and buildings for security walks to security staff. They can also initiate events - guest activities, group tours, training programs - in various locations of the hotel. The system also gives them the authority to accept or reject applications for training programs and leave requests. Similarly, housekeepers are assigned cleaning duties to various rooms and deliver food to guests. Recruiters are able to view candidate applications, just as candidates are allowed to apply for available positions in the hotel. All the employees are allowed to fill a leave request form by checking their annual leave.
 
